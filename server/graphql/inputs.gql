@@ -1,0 +1,3 @@
+input TaskInput {
+  name: String!
+}

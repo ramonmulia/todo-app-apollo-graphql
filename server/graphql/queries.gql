@@ -1,0 +1,4 @@
+  type Query {
+    Tasks: [Task]
+    Task(_id: String!): Task
+  }

@@ -1,0 +1,5 @@
+type Task {
+  _id: String!
+  name: String!
+  date: String!
+}
